@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/pixmaps/block.jpg</file>
+        <file>resources/pixmaps/longkui.jpg</file>
+        <file>resources/locales/lang.qm</file>
+    </qresource>
+</RCC>
